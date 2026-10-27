@@ -1,0 +1,5 @@
+backups/
+ci-workspace/
+ci.log
+*.tmp
+*.swp
